@@ -1,9 +1,18 @@
 #!/bin/bash
 
 
+#install rpms
+echo -e '\n'
+echo -e "\033[34m Install rpms  \033[0m"
 
-echo -e '\n\n'
+rpm -ivh ./rpms/*
+
+
+
+echo -e '\n'
 echo -e "\033[34m Batch key distribution  \033[0m"
+
+
 
 for i in `cat ./host_list.txt`
 
