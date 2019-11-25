@@ -1,3 +1,2 @@
 # scripts
---python \n
 --shell
