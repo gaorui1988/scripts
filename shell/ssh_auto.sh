@@ -2,7 +2,7 @@
 #------------------------------------------#
 # FileName:             ssh_auto.sh
 # Revision:             1.1.0
-# Date:                 2017-07-14 04:50:33
+# Date:                 2019-011-25 15:12:33
 # Author:               gaorui
 # Email:                2295463072@qq.com
 # Description:          This script can achieve ssh password-free login, 
