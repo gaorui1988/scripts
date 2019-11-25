@@ -37,10 +37,10 @@ echo -e "\033[34m Verification  \033[0m"
 
 
 
-for t in `cat ./host_list.txt`
+for h in `cat ./host_list.txt`
 
 do
   echo -e '\n'
-  echo -e "\033[32m $t times  \033[0m"
-  ssh $t date
+  echo -e "\033[32m $h times  \033[0m"
+  ssh $h date
 done
