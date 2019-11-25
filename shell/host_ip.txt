@@ -1,0 +1,3 @@
+192.168.13.201 root xietong123
+192.168.13.202 root xietong123
+192.168.13.204 root xietong123

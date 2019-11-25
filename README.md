@@ -1,1 +1,3 @@
 # scripts
+--python
+--shell
